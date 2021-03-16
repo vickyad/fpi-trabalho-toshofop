@@ -8,7 +8,7 @@ O programa é capaz de fazer diversar manipulações com imagens, desde manipula
 ### Imagens do programa
 ![Quantização](https://i.imgur.com/XQOLzpA.png)
 > Imagem quantizada em 4 tons de cinza
-
+\
 ![Espelhamento vertical](https://i.imgur.com/DiDJ4H0.png)
 > Imagem espelhada verticalmente
 
